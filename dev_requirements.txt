@@ -1,0 +1,5 @@
+-e .
+
+jinja2==2.7.1
+nose
+mock
